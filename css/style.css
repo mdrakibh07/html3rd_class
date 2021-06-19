@@ -1,0 +1,28 @@
+.spna1{
+	color: green;
+	font-size: 25px;
+}
+
+.span_color{
+	color: red;
+}
+
+.videos_file{
+	height: 400px;
+	width: 300px;
+}
+
+.image1{
+	width: 300px;
+	height: auto;
+}
+
+.iframe_video{
+	width:400px;
+	height:300px;
+}
+
+.map{
+	width:100%;
+	height:350px;
+}
